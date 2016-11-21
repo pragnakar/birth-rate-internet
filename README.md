@@ -1,4 +1,7 @@
 # malaria-deaths-internet
+
+this program is written in R 
+
 showcasing relationship between deaths due to malaria and internet usage by country 
 
 The object to of my project is to find out whether there is any relationship between birth rates of various countries in this world and percentage of internet users in that country.
